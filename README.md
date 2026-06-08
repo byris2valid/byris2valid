@@ -82,12 +82,12 @@ Dedicated to writing clean, maintainable code, learning emerging technologies, a
 ## Education 
 
 ### Flatiron School
-Certificate: AI & Data Science
-Expected Graduation: March 2027
+* Certificate: AI & Data Science
+* Expected Graduation: March 2027
 
 ### Jaxcode Academey
-Certificate: Full-stack and Prompt Engineering
-Completed Course
+* Certificate: Full-stack and Prompt Engineering
+* Completed Course
 
 ## Key Skills
 
