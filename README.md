@@ -1,4 +1,4 @@
-### Hola, I'm Byris Fells
+# Hola, I'm Byris Fells
 
 Software Engineer and Full-Stack Developer focused on building modern web and mobile applications. I specialize in React, TypeScript, Flutter, Firebase, and full-stack development while continuously expanding my expertise in AI Engineering and software architecture.
 
@@ -58,8 +58,6 @@ Dedicated to writing clean, maintainable code, learning emerging technologies, a
 
 ### AI & Emerging Technologies
 
-# Currently Learning
-
 * Prompt Engineering
 * AI Application Development
 * Retrieval-Augmented Generation (RAG)
@@ -81,16 +79,17 @@ Dedicated to writing clean, maintainable code, learning emerging technologies, a
 * Advanced React & TypeScript
 * Software Architecture & System Design
 
-### Education 
+## Education 
 
-# Flatiron School
+### Flatiron School
 Certificate: AI & Data Science
 Expected Graduation: March 2027
 
+### Jaxcode Academey
+Certificate: Full-stack and Prompt Engineering
+Completed Course
 
-
-
-### Key Skills
+## Key Skills
 
 * Building User Interfaces – Creating responsive, user-friendly web and mobile interfaces
 * Developing Full-Stack Applications – Connecting frontend, backend, and databases into working applications
@@ -135,7 +134,7 @@ Expected Graduation: March 2027
 
 ### Full-stack Developer Intern
 
-**Jaxcode Academy** | Completed
+**Jaxcode Academy** | May 2025
 
 * Completed intensive training in full-stack web development.
 * Built responsive web applications using HTML, CSS, JavaScript, PHP, and MySQL.
