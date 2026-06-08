@@ -95,9 +95,7 @@ Dedicated to writing clean, maintainable code, learning emerging technologies, a
 * Developing Full-Stack Applications – Connecting frontend, backend, and databases into working applications
 * API Integration – Working with REST APIs and external services to build dynamic features
 * Application Debugging – Identifying and fixing bugs across frontend and backend systems
-* Project Development – Planning and building complete applications from concept to deployment
 * Code Collaboration – Using Git and GitHub for version control and team-based development
-* Problem Solving – Breaking down technical problems into structured solutions
 * Learning New Technologies – Quickly adapting to new tools, frameworks, and development concepts
   
 ## Featured Projects
