@@ -1,10 +1,8 @@
 # Hola, I'm Byris Fells
 
-Software Engineer and Full-Stack Developer focused on building modern web and mobile applications. I specialize in React, TypeScript, Flutter, Firebase, and full-stack development while continuously expanding my expertise in AI Engineering and software architecture.
+Software engineer with experience in full stack development. I specialize in React, TypeScript, Flutter, Firebase, and full-stack development while continuously expanding my expertise in AI Engineering and software architecture.
 
-Currently completing AI Engineering training and gaining practical industry experience through a software engineering work-study program. Passionate about solving real-world problems through technology, building user-friendly applications, and continuously improving as an engineer.
-
-Dedicated to writing clean, maintainable code, learning emerging technologies, and contributing to impactful software products.
+Currently completing AI Engineering training and gaining practical industry experience at Flatiron School. Passionate about solving real-world problems through technology, building user-friendly applications, and continuously improving as an engineer.
 
 ## Career Highlights
 
